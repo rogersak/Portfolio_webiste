@@ -335,6 +335,7 @@ body {
   place-items: center;
   gap: 1rem;
   overflow: hidden;
+  margin: 10px;
 }
 
 .container #projects .projects__box {
